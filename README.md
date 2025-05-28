@@ -13,7 +13,7 @@ Always eager to learn and solve new challenges!
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Favorite Projects
 
 - [**AWS Cloud Projects**](https://github.com/l-teefah/AWS-Cloud-Projects):  
   Exploring cloud technologies and real-world data solutions.
