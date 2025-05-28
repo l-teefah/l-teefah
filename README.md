@@ -19,15 +19,15 @@ Always eager to learn and solve new challenges!
   Exploring cloud technologies and real-world data solutions.
 
 - [**Python Projects**](https://github.com/l-teefah/Python):  
-  Scripting, data analysis, and automation using Python!
+  Scripting, data analysis, and automation using Python.
 
 ---
 
 ### 👩‍💻 About Me
 
-- 📊 **Profession:** Service Operations Analyst
+- 📊 **Profession:** Service Operations Analyst.
 - 📝 **Bio:** Data Enthusiast interested in learning new skills and always seeking out learning opportunities.
-- 🧵 **Fun Fact:** I used to own a fashion business designing clothes for all genders!
+- 🧵 **Fun Fact:** I used to own a fashion business designing clothes for all genders.
 - 🍲 **Hobbies:** Sewing, exploring new cuisines, movies, and solving algebra problems.
 
 ---
