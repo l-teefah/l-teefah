@@ -9,7 +9,7 @@ Always eager to learn and solve new challenges!
 
 - **Languages:** R, Python, SQL
 - **Analytics & Visualization:** Power BI, Tableau
-- **Cloud & Data:** Cloud Computing (AWS & Azure), SQL
+- **Cloud:** Cloud Computing (AWS & Azure)
 
 ---
 
