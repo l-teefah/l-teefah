@@ -27,7 +27,7 @@ Always eager to learn and solve new challenges!
 
 - 📊 **Profession:** Service Operations Analyst.
 - 📝 **Bio:** Data Enthusiast interested in learning new skills and always seeking out learning opportunities.
-- 🧵 **Fun Fact:** I used to own a fashion business designing clothes for all genders.
+- 🧵 **Fun Fact:** I used to own a fashion business designing clothes for all gender.
 - 🍲 **Hobbies:** Sewing, exploring new cuisines, movies, and solving algebra problems.
 
 ---
