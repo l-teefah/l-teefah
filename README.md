@@ -5,9 +5,9 @@ Always eager to learn and solve new challenges!
 
 ---
 
-### 🛠️ Skills & Technologies
+Skills & Technologies
 
-- **Languages:** R, Python, SQL
+- **Languages:** R, Python, SQL, DAX
 - **Analytics & Visualization:** Power BI, Tableau
 - **Cloud:** Cloud Computing (AWS & Azure)
 
@@ -23,22 +23,22 @@ Always eager to learn and solve new challenges!
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 
-- 📊 **Profession:** Service Operations Analyst.
-- 📝 **Bio:** Data Enthusiast interested in learning new skills and always seeking out learning opportunities.
-- 🧵 **Fun Fact:** I used to own a fashion business designing clothes for all gender.
-- 🍲 **Hobbies:** Sewing, exploring new cuisines, movies, and solving algebra problems.
+- **Profession:** Service Operations Analyst.
+- **Bio:** Data Enthusiast interested in learning new skills and always seeking out learning opportunities.
+- **Fun Fact:** I used to own a fashion business designing clothes for all gender.
+- **Hobbies:** Sewing, exploring new cuisines, movies, and solving algebra problems.
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lateefah%20Yusuf-blue?logo=linkedin)](https://www.linkedin.com/in/lateefahyusuf?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
-### 📈 GitHub Stats & Badges
+### GitHub Stats & Badges
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=l-teefah&show_icons=true&theme=default" alt="Lateefah's GitHub stats" width="400"/>
