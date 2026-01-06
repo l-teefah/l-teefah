@@ -28,7 +28,7 @@ Skills & Technologies
 - **Profession:** Service Operations Analyst.
 - **Bio:** Data Enthusiast interested in learning new skills and always seeking out learning opportunities.
 - **Fun Fact:** I used to own a fashion business designing clothes for all gender.
-- **Hobbies:** Sewing, exploring new cuisines, movies, and solving algebra problems.
+- **Hobbies:** Sewing, exploring new cuisines, climbing, crochet, movies, and solving algebra problems.
 
 ---
 
