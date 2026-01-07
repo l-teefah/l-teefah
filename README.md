@@ -40,7 +40,7 @@ Skills & Technologies
 
 ### GitHub Stats & Badges
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=l-teefah)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-puce-alpha-50.vercel.app/?user=l-teefah)](https://git.io/streak-stats)
 
 ---
 
