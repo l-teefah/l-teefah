@@ -13,7 +13,7 @@ Skills & Technologies
 
 ---
 
-### 🚀 Favorite Projects
+### Favorite Projects
 
 - [**AWS Cloud Projects**](https://github.com/l-teefah/AWS-Cloud-Projects):  
   Exploring cloud technologies and real-world data solutions.
@@ -40,10 +40,7 @@ Skills & Technologies
 
 ### GitHub Stats & Badges
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=l-teefah&show_icons=true&theme=default" alt="Lateefah's GitHub stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=l-teefah&theme=default" alt="GitHub Streak" width="400"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=l-teefah)](https://git.io/streak-stats)
 
 ---
 
